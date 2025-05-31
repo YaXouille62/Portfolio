@@ -760,4 +760,8 @@ table.competence-table td:has(> br):before {
   table.competence-table td {
     padding: 8px;
   }
+  .table-wrapper {
+  overflow-x: auto;
+  width: 100%;
+}
 }
